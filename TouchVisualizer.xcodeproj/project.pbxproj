@@ -19,6 +19,7 @@
 		909724811CFE16FB0017F85F /* TouchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TouchView.swift; sourceTree = "<group>"; };
 		909724821CFE16FB0017F85F /* UIWindow+Swizzle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIWindow+Swizzle.swift"; sourceTree = "<group>"; };
 		909724831CFE16FB0017F85F /* Visualizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Visualizer.swift; sourceTree = "<group>"; };
+		9DD7271F26E7BA6E0088A4F4 /* TouchVisualizerPackage */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TouchVisualizerPackage; sourceTree = "<group>"; };
 		FF1A1A9F1AFF6C2200267156 /* TouchVisualizer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TouchVisualizer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF1A1AA31AFF6C2200267156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF1A1AA41AFF6C2200267156 /* TouchVisualizer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TouchVisualizer.h; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		FF1A1A951AFF6C2200267156 = {
 			isa = PBXGroup;
 			children = (
+				9DD7271F26E7BA6E0088A4F4 /* TouchVisualizerPackage */,
 				FF1A1AA11AFF6C2200267156 /* TouchVisualizer */,
 				FF1A1AA01AFF6C2200267156 /* Products */,
 			);
