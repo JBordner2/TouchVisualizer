@@ -1,11 +1,11 @@
 import XCTest
-@testable import TouchVisualizerPackage
+@testable import TouchVisualizer
 
-final class TouchVisualizerPackageTests: XCTestCase {
+final class TouchVisualizerTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(TouchVisualizerPackage().text, "Hello, World!")
+        XCTAssertEqual(TouchVisualizer().text, "Hello, World!")
     }
 }
